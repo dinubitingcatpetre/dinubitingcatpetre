@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @dinubitingcatpetre
+- 👀 I’m interested in computers, tech, math and filmmaking.
+- 🌱 I’m currently learning a lot of things, I am in school in grade 8. 
+- 💞️ I’m looking to collaborate on a Haxe project, since they were recommended to me but I do not know where to start.
+- 📫 How to reach me:
+-    Send me an email: bitingcatmusic@gmail.com
+-    Ask me on github
+-    Or just DM me on discord: nonfungiblerealm#7318 
